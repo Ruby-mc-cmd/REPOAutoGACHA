@@ -1,6 +1,6 @@
 {
   "name": "REPOAutoGACHA",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "",
   "description": "コスメガチャをトークンがなくなるまで自動で回す。Oキーでトグル。",
   "dependencies": [
