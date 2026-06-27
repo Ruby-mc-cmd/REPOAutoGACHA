@@ -1,0 +1,9 @@
+{
+  "name": "REPOAutoGACHA",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "コスメガチャをトークンがなくなるまで自動で回す。Oキーでトグル。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
